@@ -102,9 +102,12 @@ expo start
 
 <h2> ⚙ Pré-requisitos </h2>
 
-Para executar este projeto você deve ter [Nodejs](https://nodejs.org/) instalado em sua máquina.
+Para executar o frontend web e o backend deste projeto você deve ter [Nodejs](https://nodejs.org/) instalado em sua máquina para ter acesso ao NPM. 
+É reconmendavel a partir da versão 15.**.
 
 O gerenciador de pacotes [Yarn](https://yarnpkg.com/) é opcional. Baseado no NPM, é um pouco diferente em alguns fatores, melhorando alguns problemas que o NPM teria. Mas pode optar por usar o NPM sem problemas.
+
+Para executar o frontend mobile deste projeto você deve ter o [Expo](https://expo.dev/) instalado em sua máquina.
 
 <h2> 🤝🏼 Contribuições </h2>
 
