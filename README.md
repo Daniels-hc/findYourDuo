@@ -9,6 +9,8 @@
 
   **Uma projeto muito bancana pros gamers encontrarem parceiros de jogatina nos jogos que quiserem.**
   
+  **Projeto feito na edição nlw Esports da rocketseat.**
+  
   <img width="700" src="./github/Screenshot_dsmeta.png" alt="relatoriodsmeta" />
 
 </div>
@@ -39,25 +41,45 @@ As duas interfaces são integradas ao backend por REST API. O backend é conecta
 - 🌫️ Tailwind
 - 📲 Expo
 - 🟢 NodeJS
+- 🛤️ Express
 - 💾 Banco de dados SQLite
 
-<h2> 📑 Features </h2>
+<h2> 📑 Features Frontend Web </h2>
 
-- Exibição de relátorio de vendas paginadas com determinados campos
-- Filtragem por intervalo de datas
-- Ferramenta de envio de mensagem SMS
-- O frontend pega as vendas paginadas dinâmicamente no banco de dados do banckend
-- Exibição gráfica de calendário nos campos de filtragem por data
+- Divisão dos anúncios por game.(games exibidos ainda não mostram os anúncios)
+- Publicação de anúncios.
+- Os games são carregados dinâmicamente do banckend.
+- Interface intuitiva.
+
+<h2> 📑 Features Frontend Mobile </h2>
+
+- Divisão dos anúncios por game.
+- Exibição do cotêiner do anúncio com todas as infos do usúario que publicou.
+- Modal para pegar o nick do discord do usúario que publicou.
+- Os games e anúncios são carregados dinâmicamente do backend.
+- Interface intuitiva.
+
+<h2> 📑 Features Backend </h2>
+
+- Criação das entidades no banco de dados.
+- Criação de recurso para retornar a lista de games.
+- Criação de recurso para retornar a lista de anúncios por game.
+- Criação de recurso para criar um anúncio por game.
+- Criação de recurso para retornar o discord informado no anúncio especificado.
 
 <h2> 💡 O que eu aprendi </h2>
 
 - [x] Conceitos do ReactJS
-- [x] Criar um projeto react com o yarn e vite
-- [x] Detalhes de implementação do typescript no react
-- [x] Banco de dados H2
-- [x] Ferramenta de envio de mensagem SMS com o Twilio
-- [x] Notificação no browser com o toastify
-- [x] Como estruturar um projeto react
+- [x] Conceitos do React Native
+- [x] Criar um projeto react com o npm e vite
+- [x] Biblioteca tailwind e o postcss.
+- [x] Detalhes de implementação do typescript no react e react native.
+- [x] Ferramenta Prisma.
+- [x] Conceitos da biblioteca Express do nodeJs.
+- [x] Criar um projeto react native com o expo.
+- [x] Ferramenta Expo.
+- [x] Como estruturar um projeto react.
+- [x] Como estruturar um projeto react native.
 
 <h2> 🔥 Começando a usar </h2>
 
@@ -70,6 +92,12 @@ npm run dev
 ```
 yarn
 yarn dev
+```
+
+**Expo (Mobile)**
+```
+expo install
+expo start
 ```
 
 <h2> ⚙ Pré-requisitos </h2>
