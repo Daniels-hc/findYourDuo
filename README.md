@@ -33,11 +33,13 @@ As duas interfaces são integradas ao backend por REST API. O backend é conecta
 
 <h2> 🛠 Tecnologias </h2>
 
-- ☕ Java
-- 🍃 Spring
-- 💾 Banco de dados H2
 - ⚛️ ReactJS
+- ⚛️ React Native
 - 🆙 TypeScript
+- 🌫️ Tailwind
+- 📲 Expo
+- 🟢 NodeJS
+- 💾 Banco de dados SQLite
 
 <h2> 📑 Features </h2>
 
