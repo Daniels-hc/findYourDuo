@@ -3,8 +3,8 @@
   <img src="./web/src/assets/logo-nlw-esports.svg" alt="logonlwesports" />
   <h1><strong> Find Your Duo </strong></h1>
   
-  ![languages-shield](https://shields.io/github/languages/count/daniels-hc/findYourDuo?style=flat&color=5965E0)
-  ![license-shield](https://shields.io/github/license/daniels-hc/findYourDuo?style=flat&color=5965E0)
+  ![languages-shield](https://shields.io/github/languages/count/Daniels-hc/findYourDuo?style=flat&color=5965E0)
+  ![license-shield](https://shields.io/github/license/Daniels-hc/findYourDuo?style=flat&color=5965E0)
   ![version-shield](https://img.shields.io/static/v1?label=version&message=1&color=4CD62B)
 
   **Uma projeto muito bancana pros gamers encontrarem parceiros de jogatina nos jogos que quiserem.**
