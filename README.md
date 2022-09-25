@@ -21,17 +21,15 @@ Com a publicação de um anúncio para o game que o usúario especificar, outros
 
 parceiro para jogar, podem visuzalizar esse anúncio e conectar com o discord do publicador do anúncio pegando o 
 
-seu nome de usúsario do discord e assim, formarem uma dupla(duo).
+seu nome de usúsario do discord e assim, formarem uma dupla(duo). 🎮
 
-Esse projeto é composto de um frontend web, frontend mobile e backend. 
+Esse projeto é composto de um frontend web, frontend mobile e backend. ⚙
 
-A interface 
+Nessa versão, na interface web o usúario pode publicar anúncios e escolher o game. 💻
 
-O DSMeta se trata da exibição de um relátorio de vendas com filtragem por intevalo de datas.
+Na interface mobile o usúario pode escolher o game e visualizar os anpuncios publicados para esse game. 📱
 
-Nele inclui uma ferramenta de envio de mensagem SMS por linha de vendas. 
-
-Este projeto é composto de backend e frontend integrados por uma API disponibilizada pelo backend.
+As duas interfaces são integradas ao backend por REST API. O backend é conectado ao banco de dados SQLite. 🖥
 
 <h2> 🛠 Tecnologias </h2>
 
