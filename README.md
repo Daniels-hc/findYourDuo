@@ -10,9 +10,17 @@
   **Uma projeto muito bancana pros gamers encontrarem parceiros de jogatina nos jogos que quiserem.**
   
   **Projeto feito na edição nlw Esports da rocketseat.**
-  
-  <img width="700" src="./github/Screenshot_dsmeta.png" alt="relatoriodsmeta" />
-
+  <div style="display: flex;">
+    <h3>Web</h3>
+    <img width="400" src="./github/interface-web01.png" alt="interface-web01" />
+    <img width="400" src="./github/interface-web02.png" alt="interface-web02" />
+  </div>
+  <div style="display: flex;">
+    <h3>Mobile</h3>
+    <img width="150" height="300" src="./github/front-mobile01.jpeg" alt="front-mobile01" />
+    <img width="150" height="300" src="./github/front-mobile02.jpeg" alt="front-mobile02" />
+    <img width="150" height="300" src="./github/front-mobile03.jpeg" alt="front-mobile03" />
+  </div>
 </div>
 
 <h2> 📚 About</h2>
